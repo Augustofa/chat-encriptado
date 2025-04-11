@@ -5,6 +5,6 @@ Inicialmente, a tela de conexão irá pedir um nome, além de uma chave para ser
 
 ![image](https://github.com/user-attachments/assets/c5d10cac-03dd-48dc-b057-65295af49cae)
 
-Na imagem abaixo, é possível ver a criptografia em efeito, com as mensagens entre "Alice" e "Bob" sendo encriptadas e decriptadas com a mesma chave, mas "Eve", que possui uma palavra-chave distinta, não consegue n receber nem enviar mensagens para os demais usuários.
+Na imagem abaixo, é possível ver a criptografia em efeito, com as mensagens entre "Alice" e "Bob" sendo encriptadas e decriptadas com a mesma chave, mas "Eve", que possui uma palavra-chave distinta, não consegue receber nem enviar mensagens para os demais usuários.
 
 ![image](https://github.com/user-attachments/assets/72c07c99-36a9-4367-a7f4-0ddfb739cb17)
